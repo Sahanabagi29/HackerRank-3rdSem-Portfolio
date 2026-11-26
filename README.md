@@ -1,114 +1,64 @@
-\# HackerRank Algorithmic Problem-Solving Portfolio
+﻿
+# HackerRank Algorithmic Problem-Solving Portfolio
 
+**Student ID:** B25CS0311  
+**Course:** B.Tech - Computer Science and Engineering  
+**Semester:** 3rd Semester  
+**Programming Language:** Java
 
+## 1. About This Portfolio
 
-\*\*Student ID:\*\* B25CS0311  
+This repository contains Java solutions to nine HackerRank algorithmic problem-solving challenges. It demonstrates programming skills, problem-solving techniques, and algorithmic concepts.
 
-\*\*Course:\*\* B.Tech – Computer Science and Engineering  
+## 2. HackerRank Profile
 
-\*\*Semester:\*\* 3rd Semester  
+**Username:** h25020103776
 
-\*\*Programming Language:\*\* Java 15
+**Profile:** https://www.hackerrank.com/profile/h25020103776
 
+## 3. Problems Solved
 
+| No. | Problem | Concepts | Status |
+|---|---|---|---|
+| 1 | Diagonal Difference | 2D Arrays | Accepted |
+| 2 | Dynamic Array | Lists, XOR | Accepted |
+| 3 | Time Conversion | String Manipulation | Accepted |
+| 4 | Compare the Triplets | Arrays, Comparison | Accepted |
+| 5 | Sparse Arrays | String Matching | Accepted |
+| 6 | Missing Numbers | Arrays, Frequency Counting | Accepted |
+| 7 | Beautiful Pairs | HashMap, Arrays | Accepted |
+| 8 | Sherlock and The Beast | Greedy Algorithm | Accepted |
+| 9 | Mark and Toys | Greedy Algorithm, Sorting | Accepted |
 
-\## 1. About This Portfolio
+## 4. Badges Achieved
 
+- Problem Solving - 3 Stars
+- Java - 3 Stars
 
+## 5. Repository Structure
 
-This repository contains solutions to five mandatory HackerRank algorithmic problem-solving challenges. Each problem is solved using Java 15 and includes source code and documentation.
+- 01-Diagonal-Difference/
+- 02-Dynamic-Array/
+- 03-Time-Conversion/
+- 04-Compare-the-Triplets/
+- 05-Sparse-Arrays/
+- 06-Missing-Numbers/
+- 07-Beautiful-Pairs/
+- 08-Sherlock-and-The-Beast/
+- 09-Mark-and-Toys/
+- screenshots/
+- README.md
+- PROGRESS.md
 
+## 6. Tools Used
 
+- Java
+- Visual Studio Code
+- HackerRank
+- Git
+- GitHub
 
-\## 2. HackerRank Profile
+## 7. Conclusion
 
-
-
-\*\*HackerRank Username:\*\* h25020103776
-
-
-
-\*\*Profile Link:\*\* https://www.hackerrank.com/profile/h25020103776
-
-
-
-\## 3. Problems Solved
-
-
-
-| No. | Problem | Concepts |
-
-|---|---|---|
-
-| 1 | Diagonal Difference | 2D Arrays |
-
-| 2 | Dynamic Array | Lists, XOR |
-
-| 3 | Time Conversion | String Manipulation |
-
-| 4 | Compare the Triplets | Arrays, Comparison |
-
-| 5 | Sparse Arrays | String Matching |
-
-
-
-\## 4. Complexity Analysis
-
-
-
-| Problem | Time Complexity | Space Complexity |
-
-|---|---|---|
-
-| Diagonal Difference | O(N) | O(1) |
-
-| Dynamic Array | O(N + Q) | O(N + Q) |
-
-| Time Conversion | O(1) | O(1) |
-
-| Compare the Triplets | O(1) | O(1) |
-
-| Sparse Arrays | O(N × Q) | O(Q) |
-
-
-
-\## 5. Repository Structure
-
-
-
-\- `01-Diagonal-Difference/`
-
-\- `02-Dynamic-Array/`
-
-\- `03-Time-Conversion/`
-
-\- `04-Compare-the-Triplets/`
-
-\- `05-Sparse-Arrays/`
-
-\- `screenshots/`
-
-
-
-Each problem folder contains:
-
-\- `Solution.java`
-
-\- `README.md`
-
-
-
-\## 6. Submission Screenshots
-
-
-
-Screenshots of accepted HackerRank submissions will be added to the `screenshots` folder.
-
-
-
-\## 7. Problem-Solving Badge
-
-
-
-The HackerRank Problem Solving badge screenshot will be added here after verification
+This activity helped improve Java programming, algorithmic thinking, and problem-solving skills through practical HackerRank challenges. The solutions and progress are maintained in this GitHub portfolio.
 
