@@ -4,11 +4,11 @@
 **Student ID:** B25CS0311  
 **Course:** B.Tech - Computer Science and Engineering  
 **Semester:** 3rd Semester  
-**Programming Language:** Java
+**Language:** Java
 
 ## 1. About This Portfolio
 
-This repository contains Java solutions to nine HackerRank algorithmic problem-solving challenges. It demonstrates programming skills, problem-solving techniques, and algorithmic concepts.
+This repository contains solutions to the five mandatory HackerRank problems completed for Activity 8. It demonstrates array manipulation, matrix traversal, string handling, and problem-solving techniques.
 
 ## 2. HackerRank Profile
 
@@ -18,39 +18,48 @@ This repository contains Java solutions to nine HackerRank algorithmic problem-s
 
 ## 3. Problems Solved
 
-| No. | Problem | Concepts | Status |
-|---|---|---|---|
-| 1 | Diagonal Difference | 2D Arrays | Accepted |
-| 2 | Dynamic Array | Lists, XOR | Accepted |
-| 3 | Time Conversion | String Manipulation | Accepted |
-| 4 | Compare the Triplets | Arrays, Comparison | Accepted |
-| 5 | Sparse Arrays | String Matching | Accepted |
-| 6 | Missing Numbers | Arrays, Frequency Counting | Accepted |
-| 7 | Beautiful Pairs | HashMap, Arrays | Accepted |
-| 8 | Sherlock and The Beast | Greedy Algorithm | Accepted |
-| 9 | Mark and Toys | Greedy Algorithm, Sorting | Accepted |
+| No. | Problem | Topic |
+|---|---|---|
+| 1 | Diagonal Difference | 2D Arrays |
+| 2 | Dynamic Array | Data Structures |
+| 3 | Time Conversion | Strings |
+| 4 | Compare the Triplets | Basic Implementation |
+| 5 | Sparse Arrays | Hash Maps / Strings |
 
-## 4. Badges Achieved
+## 4. Time and Space Complexity
+
+| Problem | Time Complexity | Space Complexity |
+|---|---|---|
+| Diagonal Difference | O(N) | O(1) |
+| Dynamic Array | O(N + Q) | O(N) |
+| Time Conversion | O(1) | O(1) |
+| Compare the Triplets | O(1) | O(1) |
+| Sparse Arrays | O(N + Q) | O(N) |
+
+## 5. HackerRank Badges
 
 - Problem Solving - 3 Stars
 - Java - 3 Stars
 
-## 5. Repository Structure
+## 6. Screenshots
 
-- 01-Diagonal-Difference/
-- 02-Dynamic-Array/
-- 03-Time-Conversion/
-- 04-Compare-the-Triplets/
-- 05-Sparse-Arrays/
-- 06-Missing-Numbers/
-- 07-Beautiful-Pairs/
-- 08-Sherlock-and-The-Beast/
-- 09-Mark-and-Toys/
-- screenshots/
-- README.md
-- PROGRESS.md
+### Accepted Submissions
 
-## 6. Tools Used
+![Diagonal Difference](screenshots/01-Diagonal-Difference.png)
+
+![Dynamic Array](screenshots/02-Dynamic-Array.png)
+
+![Time Conversion](screenshots/03-Time-Conversion.png)
+
+![Compare the Triplets](screenshots/04-Compare-the-Triplets.png)
+
+![Sparse Arrays](screenshots/05-Sparse-Arrays.png)
+
+### HackerRank Badges
+
+![HackerRank Badges](screenshots/06-HackerRank-Badges.png)
+
+## 7. Tools Used
 
 - Java
 - Visual Studio Code
@@ -58,7 +67,6 @@ This repository contains Java solutions to nine HackerRank algorithmic problem-s
 - Git
 - GitHub
 
-## 7. Conclusion
+## 8. Conclusion
 
-This activity helped improve Java programming, algorithmic thinking, and problem-solving skills through practical HackerRank challenges. The solutions and progress are maintained in this GitHub portfolio.
-
+This portfolio demonstrates the completion of five mandatory HackerRank challenges. It documents the solutions, algorithmic complexity, and skill achievements as part of Activity 8.
